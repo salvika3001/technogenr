@@ -1,0 +1,14 @@
+.navbar-brand{
+    margin:0;
+    padding:0;
+}
+.logo{
+    height: 1000px;
+    padding-right:25px;
+    padding-left:15px;
+}
+.navbar-inverse{
+    height:75px;
+    padding-top: 15px;
+
+}
